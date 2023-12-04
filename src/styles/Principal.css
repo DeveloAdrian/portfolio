@@ -1,0 +1,11 @@
+.presentacion{
+    font-size: 1.4rem;
+    width: auto;
+    border-bottom: 2px solid #763daa;
+    margin-top: 10rem;
+    font-family: 'Caveat', cursive;
+}
+
+p{
+    font-size: 1.1rem;
+}
